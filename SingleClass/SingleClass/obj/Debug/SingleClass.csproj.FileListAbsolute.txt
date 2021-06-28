@@ -1,0 +1,6 @@
+C:\Users\lyf\Desktop\SingleClass\SingleClass\bin\Debug\SingleClass.dll
+C:\Users\lyf\Desktop\SingleClass\SingleClass\bin\Debug\SingleClass.pdb
+C:\Users\lyf\Desktop\SingleClass\SingleClass\obj\Debug\SingleClass.csprojAssemblyReference.cache
+C:\Users\lyf\Desktop\SingleClass\SingleClass\obj\Debug\SingleClass.csproj.CoreCompileInputs.cache
+C:\Users\lyf\Desktop\SingleClass\SingleClass\obj\Debug\SingleClass.dll
+C:\Users\lyf\Desktop\SingleClass\SingleClass\obj\Debug\SingleClass.pdb
