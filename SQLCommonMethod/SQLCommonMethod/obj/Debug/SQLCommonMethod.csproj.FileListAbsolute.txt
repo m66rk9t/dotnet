@@ -1,0 +1,6 @@
+C:\Users\lyf\Desktop\SQLCommonMethod\SQLCommonMethod\bin\Debug\SQLCommonMethod.dll
+C:\Users\lyf\Desktop\SQLCommonMethod\SQLCommonMethod\bin\Debug\SQLCommonMethod.pdb
+C:\Users\lyf\Desktop\SQLCommonMethod\SQLCommonMethod\obj\Debug\SQLCommonMethod.csprojAssemblyReference.cache
+C:\Users\lyf\Desktop\SQLCommonMethod\SQLCommonMethod\obj\Debug\SQLCommonMethod.csproj.CoreCompileInputs.cache
+C:\Users\lyf\Desktop\SQLCommonMethod\SQLCommonMethod\obj\Debug\SQLCommonMethod.dll
+C:\Users\lyf\Desktop\SQLCommonMethod\SQLCommonMethod\obj\Debug\SQLCommonMethod.pdb
