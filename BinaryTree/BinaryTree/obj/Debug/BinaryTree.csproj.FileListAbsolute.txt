@@ -1,0 +1,6 @@
+C:\Users\lyf\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\lyf\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\lyf\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\lyf\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\lyf\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\lyf\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
