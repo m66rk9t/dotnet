@@ -1,0 +1,9 @@
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\bin\Debug\PerInfo.UI.exe.config
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\bin\Debug\PerInfo.UI.exe
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\bin\Debug\PerInfo.UI.pdb
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\obj\Debug\PerInfo.UI.Form_PerInfo.resources
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\obj\Debug\PerInfo.UI.Properties.Resources.resources
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\obj\Debug\PerInfo.UI.csproj.GenerateResource.cache
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\obj\Debug\PerInfo.UI.csproj.CoreCompileInputs.cache
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\obj\Debug\PerInfo.UI.exe
+C:\Users\lyf\Desktop\T_T_Arch\PerInfo.UI\obj\Debug\PerInfo.UI.pdb
