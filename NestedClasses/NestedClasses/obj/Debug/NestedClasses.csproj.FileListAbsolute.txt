@@ -1,0 +1,6 @@
+C:\Users\lyf\Desktop\NestedClasses\NestedClasses\bin\Debug\NestedClasses.dll
+C:\Users\lyf\Desktop\NestedClasses\NestedClasses\bin\Debug\NestedClasses.pdb
+C:\Users\lyf\Desktop\NestedClasses\NestedClasses\obj\Debug\NestedClasses.csprojAssemblyReference.cache
+C:\Users\lyf\Desktop\NestedClasses\NestedClasses\obj\Debug\NestedClasses.csproj.CoreCompileInputs.cache
+C:\Users\lyf\Desktop\NestedClasses\NestedClasses\obj\Debug\NestedClasses.dll
+C:\Users\lyf\Desktop\NestedClasses\NestedClasses\obj\Debug\NestedClasses.pdb
